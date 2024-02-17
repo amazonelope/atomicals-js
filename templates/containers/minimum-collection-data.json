@@ -1,15 +1,15 @@
 {
-  "name": "Collection Name",
-  "image": "atom:btc:dat:<location of store-file data>/image.png",
+  "name": "coinbaseofficial",
+  "image": "atom:btc:dat:dea65fee5407d85ef228b8e022593f9b9ffb0e633ca690fc3bf2f233ebe66a4ci0/image.png",
   "items": {
     "0": {
-      "id": "84718b469c40b1bcc7cb324b8e24e4e442f88cd913687ea2bc7b3e79d4fc4fdei0"
+      "id": "67c2bd0a02d4ab11e58ca98a8b18f36bacb1c7803489dd48d74f6ea30bc4479ai0"
     },
     "1": {
-      "id": "1070d7c98304bf5ac9a5addceb13e0ce4e840641f82d71d84cebbdac427c1f4fi0"
+      "id": "eb7e41ded7542489e5d2eeba6d5a0a266edf3c44e5888ea6aab7949e3b0694afi0"
     },
     "9999": {
-      "id": "14a0d7c98304bf5ac9a5addceb1de0ce4e840641f82d71d84cebbdac427c1fc3i0"
+      "id": "dea65fee5407d85ef228b8e022593f9b9ffb0e633ca690fc3bf2f233ebe66a4ci0"
     }
   }
 }
